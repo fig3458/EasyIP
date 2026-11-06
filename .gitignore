@@ -1,0 +1,4 @@
+bin/
+*.user
+*.suo
+contacts.db
